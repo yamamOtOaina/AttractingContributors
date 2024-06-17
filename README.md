@@ -22,3 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # What is your favorite Pokémon?
 What is your favorite Pokémon?
+1. Venosour
