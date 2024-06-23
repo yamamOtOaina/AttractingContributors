@@ -25,4 +25,5 @@ Ippatsu
 Kokushimuso
 Heavenly Hand
 Ryuiso
+Orchid
 七対子
