@@ -25,4 +25,4 @@ Ippatsu
 Kokushimuso
 Heavenly Hand
 Ryuiso
-
+七対子
