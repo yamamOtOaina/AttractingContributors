@@ -23,4 +23,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # Please tell me your favorite role in mahjong
 Ippatsu
 Kokushimuso
+Heavenly Hand
 Ryuiso
+
