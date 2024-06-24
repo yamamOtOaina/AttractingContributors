@@ -3,7 +3,8 @@ Please tell me your hometown and favorite foods there!<br/>
 
 # Hi!
 Hello everyone.
-I am from Aichi prefecture.
+I am from Aichi prefecture.<br/>
+
 Where are you from?
 Please let me know what foods you recommend there.
 
