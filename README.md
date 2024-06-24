@@ -1,8 +1,9 @@
-# Where are you from? 
-Please tell me your from and favorite foods there!
+# Where are you from?   Please tell me the recommended food there.
+Please tell me your from and favorite foods there!<br/>
 
 
-
-
-# List of Hobby
-1. Gateau chocolat
+# List of hometown / Foods
+- udon<br/>
+- Bangladesh, Biriyani food<br/>
+- Ibaraki, ramen
+- Gateau chocolat
