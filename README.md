@@ -1,4 +1,4 @@
-# Where are you from?   Please tell me the recommended food there.
+# Where are you from?   Please tell me your hometown and your favorite food there.
 Please tell me your hometown and favorite foods there!<br/>
 
 # Hi!
