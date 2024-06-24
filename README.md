@@ -1,10 +1,10 @@
-# Where are you from? 
-# Please tell me the recommended food there.
+# Where are you from? Please tell me the recommended food there.
 Please tell me your from and favorite foods there!<br/>
 
-- Bangladesh, Biriyani food<br/>
 
 
 
-# List of Hobby
-- udon
+
+# List of hometown / Foods
+- udon<br/>
+- - Bangladesh, Biriyani food<br/>
