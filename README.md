@@ -2,11 +2,12 @@
 Please tell me your hometown and favorite foods there!<br/>
 
 # Hi!
-Hello everyone.
-I am from Aichi prefecture.<br/>
+Hello everyone.<br/>
+
+I am from Aichi prefecture.I recommend ’tebasaki’ there.<br/>
 
 Where are you from?
-Please let me know what foods you recommend there.
+Please tell me where you are from and what food you recommend there.
 
 
 # List of hometown / Foods
