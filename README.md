@@ -1,8 +1,8 @@
-# What is your favorite dramas?
-Please let me know your favourite dramas!
+# What is your favorite games?
+Please let me know your favourite games!
 
 # Hello, all!
-Do you like watching dramas? I would be happy if you could tell me your favorite dramas either in English or Japanese!
+Do you like playing games? I would be happy if you could tell me your favorite games!
 
 # List of Dramas
 
