@@ -7,4 +7,4 @@ Do you like playing games? I would be happy if you could tell me your favorite g
 # List of Games
 - Battle field 4
 - Animal Crossing: Wild World（Oideyo Doubutsunomori in Japanese)
-
+- MARIO KART Series
