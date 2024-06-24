@@ -1,5 +1,11 @@
 # Where are you from?   Please tell me the recommended food there.
-Please tell me your from and favorite foods there!<br/>
+Please tell me your hometown and favorite foods there!<br/>
+
+# Hi!
+Hello everyone.
+I am from Aichi prefecture.
+Where are you from?
+Please let me know what foods you recommend there.
 
 
 # List of hometown / Foods
