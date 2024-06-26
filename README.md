@@ -18,4 +18,5 @@ Please tell me where you are from and what food you recommend there.
 - ramen
 - Lima Peru , pollo a la brasa
 - Korean Fried Chicken
+- Nong khai(Thailand) Ramen
 
