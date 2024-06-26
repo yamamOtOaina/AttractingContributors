@@ -27,3 +27,4 @@ Heavenly Hand
 Ryuiso
 Orchid
 七対子
+Nine Gates
