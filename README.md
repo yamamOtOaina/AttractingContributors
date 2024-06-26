@@ -11,7 +11,7 @@ Please tell me where you are from and what food you recommend there.
 
 
 # List of hometown / Foods
-- udon<br/>
+- Kagawa, udon<br/>
 - Bangladesh, Biriyani food<br/>
 - Ibaraki, ramen
 - Gateau, chocolat<br/>
