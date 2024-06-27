@@ -19,5 +19,6 @@ Please tell me where you are from and what food you recommend there.
 - Lima Peru , pollo a la brasa
 - Korean Fried Chicken
 - Nong khai(Thailand) Ramen
+- osaka, gyoza
 - Miyagi, seri nabe
 
