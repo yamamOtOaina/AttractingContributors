@@ -23,4 +23,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # What is your favorite Pokémon?
 What is your favorite Pokémon?
 1. Venosour
-2. Charizard
+2. Klinklang
+3. Charizard
