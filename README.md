@@ -24,3 +24,10 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 What is your favorite Pokémon?
 1. Venosour
 2. Raichu
+2. Mimikkyu
+2. Fuecoco 🔥
+2. Snorlax
+2. KOKOON
+2. Mewtwo 
+2. Klinklang
+4. Charizard
