@@ -21,4 +21,5 @@ Please tell me where you are from and what food you recommend there.
 - Nong khai(Thailand) Ramen
 - osaka, gyoza
 - Miyagi, seri nabe
+- Ryukyu
 
