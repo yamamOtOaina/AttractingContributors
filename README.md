@@ -1,13 +1,5 @@
 # List of Sushi
-- Tuna
-- Shrimp
-- salmon
--
--
--
--
--
--
--
--
-
+1. Tuna
+2. Shrimp
+3. salmon
+4. 
