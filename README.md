@@ -5,3 +5,4 @@
 4. salmon
 5. Tai / Sea bream
 6. Greater amberjack
+7. egg
